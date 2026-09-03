@@ -1,4 +1,4 @@
-# GEOG-676-FALL26
+# Bushland-Online-GEOG676-FALL2026
 
 | Week | Lab |
 | --- | --- |
