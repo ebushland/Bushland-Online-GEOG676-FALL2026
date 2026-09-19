@@ -1,0 +1,1 @@
+﻿import arcpy aprx = arcpy.mp.ArcGISProject("CURRENT") m = aprx.listMaps()[0] m.addDataFromPath(r"C:\Users\ebush\Desktop\TexasAM\GEOG-676\Week7\Lab6-tutorial\Lab6-tutorial.gdb\tx_dem_tin")
